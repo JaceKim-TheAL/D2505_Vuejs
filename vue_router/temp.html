@@ -1,0 +1,48 @@
+<table>
+    <thead>
+        <tr>
+            <th>지정 경로(<code>to</code>)</th>
+            <th>현재 경로(URL)</th>
+            <th><code>router-link-active</code></th>
+            <th><code>router-link-exact-active</code></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code>/</code></td>
+            <td><code>/</code></td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><code>/</code></td>
+            <td><code>/about</code></td>
+            <td>❌</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td><code>/about</code></td>
+            <td><code>/about</code></td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><code>/movies</code></td>
+            <td><code>/movies</code></td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+        <tr>
+            <td><code>/movies</code></td>
+            <td><code>/movies/abc123</code></td>
+            <td>✅</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td><code>/movies/abc123</code></td>
+            <td><code>/movies/abc123</code></td>
+            <td>✅</td>
+            <td>✅</td>
+        </tr>
+    </tbody>
+</table>
