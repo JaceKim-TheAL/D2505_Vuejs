@@ -32,8 +32,8 @@ The Progressive JavaScript Framework
 
 ### Front-side 개발발
 
-| 항목 | React | Vue.js | Next.js |
-|-----|-------|--------|---------|
+| 항 목 | React | Vue.js | Next.js |
+|------|-------|--------|---------|
 | **정의** | UI 구축용 JavaScript 라이브러리 | UI 구축용 점진적 프레임워크/라이브러리 | React 기반의 프레임워크 |
 | **개발 주체** | Facebook (Meta) | Evan You (전 구글 개발자) | Vercel |
 | **기반 언어** | JavaScript / JSX | JavaScript / HTML 기반 템플릿 | React + Node.js |
