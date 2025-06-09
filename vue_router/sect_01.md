@@ -44,8 +44,9 @@ npm i vue-router
 │  └─main.ts
 ```
 <br/>
+
 `/src/routes/pages` 폴더에 사용할 페이지 컴포넌트를 추가합니다. <br/>
-우선 간단하게 Home과 About 페이지를 추가하겠습니다.
+우선 간단하게 Home과 About 페이지를 추가하겠습니다.<br/>
 
 `[/src/routes/pages/HomePage.vue]`
 ```vue
