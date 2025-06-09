@@ -4,7 +4,8 @@ The Progressive JavaScript Framework
 - 사용자 인터페이스를 구축하기 위한 프로그레시브 JavaScript 프레임워크 <br/>
 - 웹 애플리케이션을 만들 때 HTML, CSS, JavaScript를 보다 효율적으로 활용할 수 있도록 도와주는 도구 <br/>
 
-### Vue.js의 특징:
+### Vue.js의 특징
+
 | 특징  | 설명 |
 |------|--------|
 | **직관적인 API**       | HTML, CSS, JavaScript의 기본을 바탕으로 쉽게 배울 수 있어요.  |
@@ -17,6 +18,7 @@ The Progressive JavaScript Framework
 
 ### JavaScript 비교
 각각의 기술은 웹 개발에서 중요한 역할을 하지만, 목적과 특징이 다르다:
+
 | 기술 | 유형 | 주요 특징 | 사용 목적 | 
 | Vue.js | 프레임워크 | 직관적인 API, 반응형 데이터, 컴포넌트 기반 | UI 구축, SPA 개발 | 
 | React | 라이브러리 | 컴포넌트 기반, 가상 DOM, 강력한 생태계 | UI 구축, 대규모 애플리케이션 | 
