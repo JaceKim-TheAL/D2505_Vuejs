@@ -25,8 +25,8 @@ The Progressive JavaScript Framework
 | Next.js | 프레임워크 | React 기반, SSR/SSG 지원, SEO 최적화 | 서버 렌더링, 정적 사이트 생성 | 
 | Node.js | 런타임 환경 | 비동기 이벤트 기반, 빠른 성능, 서버 개발 가능 | 백엔드 개발, API 서버 구축 | 
 
-🚀 Vue.js와 React는 UI를 구축하는 데 사용되며, <br/>
-🚀 Next.js는 React를 기반으로 한 프레임워크로 서버 렌더링을 지원합니다. <br/>
-🚀 Node.js는 프론트엔드가 아닌 백엔드 개발에 사용되는 JavaScript 런타임 환경이에요. <br/>
+🚀 `Vue.js`와 `React`는 UI를 구축하는 데 사용되며, <br/>
+🚀 `Next.js`는 React를 기반으로 한 프레임워크로 서버 렌더링을 지원합니다. <br/>
+🚀 `Node.js`는 프론트엔드가 아닌 백엔드 개발에 사용되는 JavaScript 런타임 환경이에요. <br/>
 <br/>
 
