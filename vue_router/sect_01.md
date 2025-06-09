@@ -17,7 +17,7 @@
     <td><a href="sect_10.md"> [배포]        </a></td>  
   </tr>
 </table>
-
+ 
 ---
 # 1. 설치 및 구성
 - [vue-router 설치](#vue-router-설치) 
@@ -48,6 +48,9 @@ npm i vue-router
 ```
 <br/>
 
+[[TOP]](#index)
+
+---
 ### 컴포넌트 추가
 `/src/routes/pages` 폴더에 사용할 페이지 컴포넌트를 추가합니다. <br/>
 우선 간단하게 Home과 About 페이지를 추가하겠습니다.<br/>
@@ -68,6 +71,9 @@ npm i vue-router
 ```
 <br/>
 
+[[TOP]](#index)
+
+---
 ### 라우터 구성
 보여줄 페이지를 추가했다면 이제 /src/routes/index.ts 파일에서 프로젝트의 라우터를 구성합니다. <br/>
 <br/>
@@ -102,6 +108,9 @@ export default router
 ```
 <br/>
 
+[[TOP]](#index)
+
+---
 ### 플러그인 등록
 이제 `/src/main.ts`로 이동해 생성된 라우터 객체를 가져와 프로젝트의 플러그인으로 등록합니다.
 
@@ -117,6 +126,9 @@ createApp(App)
 ```
 <br/>
 
+[[TOP]](#index)
+
+---
 ### 컴포넌트 지정
 마지막으로 프로젝트의 최상위 컴포넌트(`/src/App.vue`)에서 사용자의 접근 경로에 맞게 각 페이지가 출력될 위치를 `<RouterView />` 컴포넌트로 지정합니다.
 
