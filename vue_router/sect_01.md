@@ -23,7 +23,41 @@
 - [서브메뉴](#) 
 
 ---
-### 세션
+다음과 같이 vue-router를 설치합니다.
+
+```shell
+npm i vue-router
+```
+
+다음의 폴더 및 파일 구조로 시작합니다.
+```shell
+├─src/
+│  ├─routes/
+│  │  ├─pages/
+│  │  │  ├─AboutPage.vue
+│  │  │  └─HomePage.vue
+│  │  └─index.ts
+|  ├─App.vue
+│  └─main.ts
+```
+`/src/routes/pages` 폴더에 사용할 페이지 컴포넌트를 추가합니다. <br/>
+우선 간단하게 Home과 About 페이지를 추가하겠습니다.
+
+[/src/routes/pages/HomePage.vue]
+```vue
+<template>
+  <h1>Home page!</h1>
+</template>
+```
+
+[/src/routes/pages/AboutPage.vue]
+```vue
+<template>
+  <h1>About page!</h1>
+</template>
+```
+
+
 <br/>
 
 [[TOP]](#index)
