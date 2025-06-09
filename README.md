@@ -12,7 +12,7 @@ The Progressive JavaScript Framework
 | **컴포넌트 기반**       | 재사용 가능한 컴포넌트로 웹 애플리케이션을 구성할 수 있어요.     |
 | **유연성**             | 간단한 웹 페이지부터 복잡한 싱글 페이지 애플리케이션(SPA)까지 다양한 방식으로 활용 가능해요.  |
 
-- - 🚀 Vue.js는 초보자에게도 접근성이 좋고, 대규모 프로젝트에서도 강력한 기능을 제공하는 프레임워크 !!! 
+🚀 Vue.js는 초보자에게도 접근성이 좋고, 대규모 프로젝트에서도 강력한 기능을 제공하는 프레임워크 !!! <br/>
 <br/>
 
 ### JavaScript 비교
@@ -23,9 +23,8 @@ The Progressive JavaScript Framework
 | Next.js | 프레임워크 | React 기반, SSR/SSG 지원, SEO 최적화 | 서버 렌더링, 정적 사이트 생성 | 
 | Node.js | 런타임 환경 | 비동기 이벤트 기반, 빠른 성능, 서버 개발 가능 | 백엔드 개발, API 서버 구축 | 
 
-- - 🚀 Vue.js와 React는 UI를 구축하는 데 사용되며,
-- - 🚀 Next.js는 React를 기반으로 한 프레임워크로 서버 렌더링을 지원합니다. 
-- - 🚀 Node.js는 프론트엔드가 아닌 백엔드 개발에 사용되는 JavaScript 런타임 환경이에요.
--- 🚀 Node.j
--- 🚀 Node.j
+🚀 Vue.js와 React는 UI를 구축하는 데 사용되며, <br/>
+🚀 Next.js는 React를 기반으로 한 프레임워크로 서버 렌더링을 지원합니다. <br/>
+🚀 Node.js는 프론트엔드가 아닌 백엔드 개발에 사용되는 JavaScript 런타임 환경이에요. <br/>
+<br/>
 
