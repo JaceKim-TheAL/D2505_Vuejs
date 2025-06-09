@@ -25,11 +25,12 @@
 
 ---
 ### Vue Router 설치
-다음과 같이 vue-router를 설치합니다.
+다음과 같이 `vue-router`를 설치합니다.
 
 ```shell
 npm i vue-router
 ```
+<br/>
 
 다음의 폴더 및 파일 구조로 시작합니다.
 ```shell
@@ -42,6 +43,7 @@ npm i vue-router
 |  ├─App.vue
 │  └─main.ts
 ```
+<br/>
 `/src/routes/pages` 폴더에 사용할 페이지 컴포넌트를 추가합니다. <br/>
 우선 간단하게 Home과 About 페이지를 추가하겠습니다.
 
@@ -51,6 +53,7 @@ npm i vue-router
   <h1>Home page!</h1>
 </template>
 ```
+<br/>
 
 `[/src/routes/pages/AboutPage.vue]`
 ```vue
@@ -58,6 +61,7 @@ npm i vue-router
   <h1>About page!</h1>
 </template>
 ```
+<br/>
 
 
 <br/>
