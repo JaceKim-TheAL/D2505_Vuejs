@@ -29,3 +29,79 @@
 [[TOP]](#index)
 
 ---
+
+
+
+
+
+![Vue Router](../images/vue_router.jpg)
+
+
+# Vue Router
+
+
+<br/>
+
+[[TOP]](#index)
+
+---
+### 설치 및 구성
+<br/>
+
+[[TOP]](#index)
+
+---
+### 레이아웃
+<br/>
+
+[[TOP]](#index)
+
+---
+### 스크롤 복원
+<br/>
+
+[[TOP]](#index)
+
+---
+### 탐색
+<br/>
+
+[[TOP]](#index)
+
+---
+### 동적 경로 일치
+<br/>
+
+[[TOP]](#index)
+
+---
+### 중첩 경로
+<br/>
+
+[[TOP]](#index)
+
+---
+### 찾을 수 없는 페이지
+<br/>
+
+[[TOP]](#index)
+
+---
+### 내비게이션 가드
+<br/>
+
+[[TOP]](#index)
+
+---
+### 페이지 전환 애니메이션
+<br/>
+
+[[TOP]](#index)
+
+---
+### 배포
+<br/>
+
+[[TOP]](#index)
+
+---
