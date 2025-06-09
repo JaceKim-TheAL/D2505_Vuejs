@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <td><b href="sect_01.md"> [설치]        </b></td>
-    <td><a href="sect_02.md"> [레이아웃]    </a></td>
+    <td><a href="sect_01.md"> [설치]        </a></td>
+    <td><b href="sect_02.md"> [레이아웃]    </b></td>
     <td><a href="sect_03.md"> [스크롤]      </a></td>
     <td><a href="sect_04.md"> [탐색]        </a></td>
     <td><a href="sect_05.md"> [동적경로]    </a></td>
@@ -19,7 +19,7 @@
 </table>
 
 ---
-# 1. 설치 및 구성
+# 2. 레이아웃
 - [서브메뉴](#) 
 
 ---
