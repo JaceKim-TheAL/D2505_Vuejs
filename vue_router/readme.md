@@ -17,7 +17,6 @@
 - [10. 배포                 ][link_10]
 - [[Vue JS 공식문서]         ][link_vuejs] 
 
-[![메인이미지](../images/nextjs_main.jpg)](https://www.heropy.dev/p/n7JHmI)
 
 [nextjs15]: https://nextjs-ko.org/docs/app/building-your-application/upgrading/version-15
 [link_01]: ./sect_01.md
