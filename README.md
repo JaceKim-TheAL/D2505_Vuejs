@@ -30,7 +30,7 @@ The Progressive JavaScript Framework
 🚀 `Node.js`는 프론트엔드가 아닌 백엔드 개발에 사용되는 JavaScript 런타임 환경이에요. <br/>
 <br/>
 
-### Front-side 개발발
+### Front-side 개발
 
 | 항  목 | React | Vue.js | Next.js |
 |-------|-------|--------|---------|
@@ -49,3 +49,11 @@ The Progressive JavaScript Framework
 🚀 빠른 프로토타입 제작 → Vue <br/>
 🚀 자유로운 커스터마이징 + 리액트 생태계 → React <br/>
 🚀 SEO나 블로그, 쇼핑몰 같은 정적/서버 렌더링이 중요한 경우 → Next.js <br/>
+<br/>
+
+### Vue Router
+- Vue 공식 라우터 라이브러리
+- Vue 애플리케이션의 동적/중첩 경로, 탐색 제어, HTML5/해시모드, 스크롤 처리 등의 다양한 기능을 지원
+- [Vue Router의 핵심적인 기능과 사용 예제](https://www.heropy.dev/p/2Hstmu) 
+<br/>
+
