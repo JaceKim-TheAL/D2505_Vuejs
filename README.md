@@ -56,7 +56,6 @@ The Progressive JavaScript Framework
 - Vue 애플리케이션의 동적/중첩 경로, 탐색 제어, HTML5/해시모드, 스크롤 처리 등의 다양한 기능을 지원
 - Vue Router의 핵심적인 기능과 사용 예제 
 - [ⓥ-ⓡⓞⓤⓣⓔⓡ](./vue_router/) 
-- [𓀉 𓀊 𓀋 𓀌 - ㎶](https://www.heropy.dev/p/2Hstmu) 
 <br/>
 
 [[TOP]](#d2505_vuejs)
