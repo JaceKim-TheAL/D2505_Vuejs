@@ -18,10 +18,10 @@
   </tr>
 </table>
 
-cf. 참조 : [𓀉 𓀊 𓀋 𓀌 - ㎶](https://www.heropy.dev/p/2Hstmu) 
 ---
 # 1. 개요
-- [서브메뉴](#) 
+- 링크 : [서브메뉴](#) 
+- 참조 : [𓀉𓀊𓀋𓀌-㎶](https://www.heropy.dev/p/2Hstmu) 
 
 ---
 ### Next.js 15의 주요 업데이트 내용
