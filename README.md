@@ -54,6 +54,6 @@ The Progressive JavaScript Framework
 ### Vue Router
 - Vue 공식 라우터 라이브러리
 - Vue 애플리케이션의 동적/중첩 경로, 탐색 제어, HTML5/해시모드, 스크롤 처리 등의 다양한 기능을 지원
-- [Vue Router의 핵심적인 기능과 사용 예제](https://www.heropy.dev/p/2Hstmu) 
+- [Vue Router의 핵심적인 기능과 사용 예제](./vue_router/) : [REF](https://www.heropy.dev/p/2Hstmu) 
 <br/>
 
